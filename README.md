@@ -1,1 +1,4 @@
-# Cafe Branch
+
+ Cafe Branch
+
+Version 0.1.0 - first public demo
